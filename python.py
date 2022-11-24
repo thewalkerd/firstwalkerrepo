@@ -6,7 +6,7 @@ import numpy as np
 import xgboost as xgb
 from numpy import nan
 
-
+#BU YENI YORUMU EKLEDIM
 # load the model from disk
 loaded_model = pickle.load(open(r'C:\Users\ipek.kaygusuz\Desktop\PS\ipek py\results\FINAL Models\Model no trx vr no prelimination\MODEL TEST\Model with Ilkin output-json conversion-Final.sav', 'rb'))
 
